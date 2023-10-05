@@ -1,0 +1,10 @@
+/.ipynb_checkpoints
+/.virtual_documents
+/data
+/gettingStarted.ipynb
+/mdata_sub.h5mu
+/my_results.h5ad
+/scveloBasics.ipynb
+/scverse_1_framework.ipynb
+/scverse_2_qc.ipynb
+/test_mudata.h5mu
